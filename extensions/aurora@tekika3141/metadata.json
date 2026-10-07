@@ -1,0 +1,9 @@
+{
+  "uuid": "aurora@tekika3141",
+  "name": "Aurora Desktop",
+  "description": "An original macOS-inspired desktop shell for Ubuntu GNOME.",
+  "version": 1,
+  "shell-version": ["45", "46", "47"],
+  "url": "https://github.com/Tekika-3141/Ubuntu-Mac-desktop",
+  "settings-schema": "org.tekika3141.aurora"
+}

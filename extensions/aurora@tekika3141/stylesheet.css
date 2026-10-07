@@ -1,0 +1,42 @@
+.aurora-brand {
+    color: #f5f7ff;
+    font-weight: 700;
+    padding: 0 12px;
+}
+
+.panel-button {
+    -natural-hpadding: 8px;
+}
+
+.aurora-status-box {
+    spacing: 10px;
+    padding: 0 8px;
+}
+
+.aurora-dock {
+    background-color: rgba(25, 29, 42, 0.92);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 20px;
+    padding: 8px 12px;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.35);
+}
+
+.aurora-dock-item {
+    border-radius: 12px;
+    padding: 5px;
+    transition-duration: 120ms;
+}
+
+.aurora-dock-item:hover,
+.aurora-dock-item:focus {
+    background-color: rgba(255, 255, 255, 0.16);
+    transform: scale(1.18);
+}
+
+.aurora-launcher-button {
+    background-color: rgba(129, 140, 248, 0.25);
+}
+
+.aurora-dark {
+    color: #f7f8ff;
+}

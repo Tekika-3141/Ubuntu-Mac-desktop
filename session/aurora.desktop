@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Aurora Desktop
+Comment=Original macOS-inspired desktop for Ubuntu GNOME
+Exec=gnome-session --session=aurora
+TryExec=gnome-session
+Type=Application
+DesktopNames=Aurora;GNOME;

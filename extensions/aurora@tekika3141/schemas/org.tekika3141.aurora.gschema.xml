@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.tekika3141.aurora" path="/org/tekika3141/aurora/">
+    <key name="dark-mode" type="b">
+      <default>false</default>
+      <summary>Use dark appearance</summary>
+      <description>Use Aurora's dark appearance instead of the light appearance.</description>
+    </key>
+    <key name="panel-position" type="s">
+      <default>'left'</default>
+      <summary>Panel item position</summary>
+    </key>
+    <key name="dock-icon-size" type="i">
+      <default>48</default>
+      <range min="24" max="96"/>
+      <summary>Dock icon size</summary>
+    </key>
+    <key name="dock-apps" type="as">
+      <default>[]</default>
+      <summary>Applications pinned to the Dock</summary>
+    </key>
+  </schema>
+</schemalist>
