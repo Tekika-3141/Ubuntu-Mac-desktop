@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Aurora Desktop Session
+Comment=Starts the Aurora GNOME session
+Exec=gnome-session --session=aurora
+Type=Application

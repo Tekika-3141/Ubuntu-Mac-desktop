@@ -1,0 +1,4 @@
+[GNOME Session]
+Name=Aurora Desktop
+RequiredComponents=org.gnome.Shell;org.gnome.SettingsDaemon;
+DesktopName=Aurora;
